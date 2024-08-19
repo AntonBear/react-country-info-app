@@ -4,7 +4,6 @@ const Wrapper = styled.article`
   border-radius: var(--radii);
   background-color: car(--colors-ui-base);
   box-shadow: var(--shadow);
-  cursor: pointer;
   overflow: hidden;
 `
 

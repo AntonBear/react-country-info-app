@@ -5,7 +5,6 @@ import { Header } from './components/Header'
 import { Main } from './components/Main'
 import { ALL_COUNTRIES } from './config'
 
-
 function App() {
   const [countries, setCountries] = useState([])
   useEffect(() => {

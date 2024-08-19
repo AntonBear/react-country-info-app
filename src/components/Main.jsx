@@ -13,5 +13,5 @@ export const Main = ({ children }) => {
     <Wrapper>
       <Container>{children}</Container>
     </Wrapper>
-  )
+  ) 
 }
